@@ -1,5 +1,5 @@
 ## C语言实用库 
-![img](https://img.shields.io/badge/License-MIT-yellow.svg)|![img](https://img.shields.io/badge/License-MIT-yellow.svg)
+![img](https://img.shields.io/badge/License-MIT-yellow.svg)![img](https://img.shields.io/badge/develop%20by-c-red)
 ### 简介 
 欢迎使用C语言实用库！这个库旨在为C编程中常见的任务提供一系列高效、实用的功能函数。无论您是在处理字符串操作、数据结构还是文件操作，这个库都致力于简化您的开发流程 
 ### 功能 
